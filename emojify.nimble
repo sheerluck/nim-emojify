@@ -1,8 +1,8 @@
 # Package
 
 version       = "0.1.0"
-author        = "Bartosz Białas"
-description   = "Write Nim with only 'v'"
+author        = "Bartosz Białas, Danil Yarantsev (Yardanico)"
+description   = "Convert Nim code to emojis 🧠"
 license       = "MIT"
 srcDir        = "src"
 
